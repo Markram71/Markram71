@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markram71
 - 👀 I’m interested in (electronic) music and jazz.  
-- 🌱 I’m currently learning how to program a 
+- 🌱 I’m currently learning how to program a midi controller for bitwig
 - 💞️ I’m looking to collaborate on anything related to Bitwig midi controller
 - 📫 How to reach me: email me at dr.martin.kramer@gmail.com
 
